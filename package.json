@@ -9,12 +9,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnvmt/node-dacp-client"
+    "url": "https://github.com/mikenz1000/node-dacp-client.git"
   },
   "dependencies": {
     "request": "2.74.x",
     "mdns": "2.3.x",
-    "daap": "https://github.com/johnvmt/daap.git"
+    "daap": "git+https://github.com/mikenz1000/daap"
   },
   "main": "client.js"
 }
